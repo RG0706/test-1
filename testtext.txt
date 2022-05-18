@@ -13,6 +13,8 @@
         "filesystem_info" : {
           "bucket" : "",
           "container" : "synp",
+          
+          
           "filesystem_credential_type" : "Azure Data Lake Storage Gen 2",
           "accountName" : "nabuswatstoragenew",
           "filesystem_credential_name" : "ADLS Gen2",
